@@ -1,0 +1,8 @@
+target
+log
+.classpath
+.DS_Store
+.project
+.settings
+.idea
+/bin/
